@@ -3,7 +3,7 @@ pandas
 numpy
 Pillow
 scikit-learn
-Keras
+keras==2.15.0
 scipy
 notebook
-tensorflow
+tensorflow==2.15.0
