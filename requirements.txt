@@ -5,3 +5,5 @@ Pillow
 scikit-learn
 Keras
 scipy
+notebook
+tensorflow
