@@ -8,3 +8,5 @@ To clone repo:
    git clone https://github.com/clarej6060/CSCI4366_finalproject.git
    cd CSCI4366_finalproject
    pip install -r requirements.txt
+```
+After doing this, unzip the urbansounds.zip file and retain the file structure. 
